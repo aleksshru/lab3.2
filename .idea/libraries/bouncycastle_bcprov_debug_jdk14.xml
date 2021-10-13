@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bouncycastle.bcprov.debug.jdk14" type="repository">
+    <properties maven-id="org.bouncycastle:bcprov-debug-jdk14:1.60" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-debug-jdk14/1.60/bcprov-debug-jdk14-1.60.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/bcprov-debug-jdk14-1.60-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
